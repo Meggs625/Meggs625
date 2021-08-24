@@ -21,4 +21,4 @@
  </table>
 
 
-![Megg's GitHub stats](https://github-readme-stats.vercel.app/api?username=meggs625&show_icons=true)
+![Megg's GitHub stats](https://github-readme-stats.vercel.app/api?username=meggs625&theme=radical&show_icons=true)
