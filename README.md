@@ -22,6 +22,7 @@
 
 <h3>🌻  Contact</h3> 
  - <a href="https://www.linkedin.com/in/megan-d-mcbride/">LinkedIn</a>
+ - <br/>
  - <a href="mailto: mcbride.megd@gmail.com">email</a>
 
 ![Megg's GitHub stats](https://github-readme-stats.vercel.app/api?username=meggs625&theme=radical&show_icons=true)
