@@ -1,4 +1,4 @@
-<h1> Hello! I'm Meg. </h1>
+<h1 align="center"> Hello! I'm Meg. </h1>
 
 <h2> A Little About Me </h2>
 <h3>🌻  Pronouns</h3> she/her
@@ -20,5 +20,7 @@
     </tr>
  </table>
 
+<h3>🌻  Contact</h3> 
+* LinkedIn: [https://www.linkedin.com/in/megan-d-mcbride/](https://www.linkedin.com/in/megan-d-mcbride/)
 
 ![Megg's GitHub stats](https://github-readme-stats.vercel.app/api?username=meggs625&theme=radical&show_icons=true)
