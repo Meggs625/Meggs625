@@ -3,8 +3,8 @@
 <h2> A Little About Me </h2>
 <h3>🌻  Pronouns</h3> she/her
 <h3>🌻  Passions</h3> 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
-<h3>🌻  Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles (lately, particularly [Liberty Puzzles!](https://www.libertypuzzles.com/))
-<h3>🌻  Last Project</h3> [Umbrella Lady](https://github.com/Meggs625/umbrella-lady) - The final project of the Frontend Mod 2 program at Turing
+<h3>🌻  Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles - lately, particularly <a href="https://www.libertypuzzles.com/">Liberty Puzzles!</a>
+<h3>🌻  Last Project</h3> <a href="https://github.com/Meggs625/umbrella-lady">Umbrella Lady</a> - The final project of the Frontend Mod 2 program at Turing
 <h3>🌻  Currently Working On</h3> Learning React
 <h3>🌻  Skills</h3> 
 <table>
@@ -21,7 +21,7 @@
  </table>
 
 <h3>🌻  Contact</h3> 
- - [LinkedIn](https://www.linkedin.com/in/megan-d-mcbride/)
- - [email](mcbride.megd@gmail.com)
+ - <a href="https://www.linkedin.com/in/megan-d-mcbride/">LinkedIn</a>
+ - <a href="mailto: mcbride.megd@gmail.com">email</a>
 
 ![Megg's GitHub stats](https://github-readme-stats.vercel.app/api?username=meggs625&theme=radical&show_icons=true)
