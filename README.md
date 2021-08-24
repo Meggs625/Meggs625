@@ -23,4 +23,4 @@
 <h3>🌻  Contact</h3> 
 * LinkedIn: [https://www.linkedin.com/in/megan-d-mcbride/](https://www.linkedin.com/in/megan-d-mcbride/)
 
-<section align="center">![Megg's GitHub stats](https://github-readme-stats.vercel.app/api?username=meggs625&theme=radical&show_icons=true)</section>
+![Megg's GitHub stats](https://github-readme-stats.vercel.app/api?username=meggs625&theme=radical&show_icons=true)
