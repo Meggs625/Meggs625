@@ -1,9 +1,12 @@
-<h1 style="text-align: center; color: #BD93BD;"> Hello! I'm Meg. </h1>
+<h1> Hello! I'm Meg. </h1>
 
-
-- Pronouns: she/her
-- Passions: 📚 reading, 🧘🏻‍♀️ yoga, 🙋🏻‍♀️ learning, 💞 family, and 🍲 food
-- Languages: 
+<h2> A Little About Me </h2>
+🌻 Pronouns: she/her
+🌻 Passions: 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
+🌻 Hobbies: 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles (lately, particularly [Liberty Puzzles!](https://www.libertypuzzles.com/)
+🌻 Last Project: 
+🌻 <h3>Currently Working On</h3>: Learning React
+🌻 <h3>Skills</h3>: 
 <table>
      <tr>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
