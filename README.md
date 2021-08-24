@@ -1,4 +1,4 @@
-<h1 style="text-align: center; background-image: ![Sunflowers](https://user-images.githubusercontent.com/78767067/130633112-886c7e5a-ca49-494f-b95d-7a74cc1343d6.jpeg)"> Hello! I'm Meg. </h1>
+<h1 style="text-align: center; background-image: ![Sunflowers](https://user-images.githubusercontent.com/78767067/130633112-886c7e5a-ca49-494f-b95d-7a74cc1343d6.jpeg); height: 100px; width: 100%"> Hello! I'm Meg. </h1>
 
 
 - Pronouns: she/her
