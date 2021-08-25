@@ -1,12 +1,12 @@
 <h1 align="center"> Hello! I'm Meg. </h1>
 
 <h2> A Little About Me </h2>
-<h3>🌻  Pronouns</h3> she/her
-<h3>🌻  Passions</h3> 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
-<h3>🌻  Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles - lately, particularly <a href="https://www.libertypuzzles.com/">Liberty Puzzles!</a>
-<h3>🌻  Last Project</h3> <a href="https://github.com/Meggs625/umbrella-lady">Umbrella Lady</a> - The final project of the Frontend Mod 2 program at Turing
-<h3>🌻  Currently Working On</h3> Learning React
-<h3>🌻  Skills</h3> 
+<h3>Pronouns</h3> she/her
+<h3>Passions</h3> 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
+<h3>Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles - lately, particularly <a href="https://www.libertypuzzles.com/">Liberty Puzzles!</a>
+<h3>Last Project</h3> <a href="https://github.com/Meggs625/umbrella-lady">Umbrella Lady</a> - The final project of the Frontend Mod 2 program at Turing
+<h3>Currently Working On</h3> Learning React
+<h3>Skills</h3> 
 <table>
      <tr>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="JavaScript" width="50" height="auto" /></td>
@@ -20,7 +20,7 @@
     </tr>
  </table>
 
-<h3>🌻  Contact</h3> 
+<h3>Contact</h3> 
  - <a href="https://www.linkedin.com/in/megan-d-mcbride/">LinkedIn</a>
  <br/>
  - <a href="mailto: mcbride.megd@gmail.com">email</a>
