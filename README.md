@@ -4,7 +4,7 @@
 <h3>Pronouns</h3> she/her
 <h3>Passions</h3> 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
 <h3>Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles - lately, particularly <a href="https://www.libertypuzzles.com/">Liberty Puzzles!</a>
-<h3>Last Project</h3> <a href="https://github.com/Meggs625/umbrella-lady">Umbrella Lady</a> - The final project of the Frontend Mod 2 program at Turing
+<h3>Last Project</h3> <a href="https://github.com/Meggs625/umbrella-lady">Umbrella Lady</a> - The final project of the Frontend program at Turing for Module 2 (half way through the program)
 <h3>Currently Working On</h3> Learning React
 <h3>Skills</h3> 
 <table>
