@@ -16,7 +16,6 @@
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/mocha.png" alt="Mocha" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/github.png" alt="GitHub" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/nodejs.png" alt="NodeJS" width="50" height="auto" /></td>
     </tr>
  </table>
 
