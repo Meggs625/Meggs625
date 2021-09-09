@@ -1,4 +1,5 @@
-<h1 align="center"> Hello! I'm Meg. </h1>
+<h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ I'm Meg. </h1>
 
 <h2> A Little About Me </h2>
 <h3>Pronouns</h3> she/her
