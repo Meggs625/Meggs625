@@ -5,8 +5,8 @@
 <h3>Pronouns</h3> she/her
 <h3>Passions</h3> 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
 <h3>Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles - lately, particularly <a href="https://www.libertypuzzles.com/">Liberty Puzzles!</a>
-<h3>Last Project</h3> <a href="https://github.com/Meggs625/umbrella-lady">Umbrella Lady</a> - The final project of the Frontend program at Turing for Module 2 (half way through the program)
-<h3>Currently Working On</h3> Learning React
+<h3>Last Project</h3> <a href="https://github.com/Meggs625/tomates-podres">Tomates Podres</a> - A paired project using React framework and Cypress testing
+<h3>Currently Working On</h3> Learning React Hooks and dabbling in animation
 <h3>Skills</h3> 
 <table>
      <tr>
@@ -20,9 +20,12 @@
     </tr>
  </table>
 
-<h3>Contact</h3> 
+<h3>Contact Me - I'd love to hear from you!</h3> 
  - <a href="https://www.linkedin.com/in/megan-d-mcbride/">LinkedIn</a>
  <br/>
  - <a href="mailto: mcbride.megd@gmail.com">email</a>
+ 
+ 
+<h3>Stats at a Glimpse</h3>
 
 ![Megg's GitHub stats](https://github-readme-stats.vercel.app/api?username=meggs625&theme=radical&show_icons=true)
