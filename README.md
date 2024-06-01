@@ -5,8 +5,8 @@
 <h3>Pronouns</h3> she/her
 <h3>Passions</h3> 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
 <h3>Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles - lately, particularly <a href="https://www.libertypuzzles.com/">Liberty Puzzles!</a>
-<h3>Last Project</h3> <a href='https://github.com/Meggs625/stoically-wise'>Stoically Wise</a> - A solo project using the React library and Cypress testing for those interested in the stoic philosophy 
-<h3>Currently Working On</h3> Self teaching TypeScript
+<h3>Last Project</h3> Working on my profile site!
+<h3>Currently Working On</h3> Completing the Josh Comeau `Joy of React` course
 <h3>Skills</h3> 
 <table>
      <tr>
