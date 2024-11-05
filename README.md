@@ -1,12 +1,13 @@
-<h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+<div align="center"><h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
  I'm Meg. </h1>
+<img src="https://github.com/user-attachments/assets/64508898-49d3-4197-b764-a4dec980e75b" alt="McBride Logo" height="250px" width="auto"/> </div>
 
 <h2> A Little About Me </h2>
 <h3>Pronouns</h3> she/her
 <h3>Passions</h3> 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
 <h3>Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles - lately, particularly <a href="https://www.libertypuzzles.com/">Liberty Puzzles!</a>
-<h3>Last Project</h3> Working on my profile site!
-<h3>Currently Working On</h3> Completing the Josh Comeau `Joy of React` course
+<h3>Last Project</h3> <a href="httsp://www.meganmcb.com">Just Meg</a>
+<h3>Currently Working On</h3> Starting to learn Ruby 
 <h3>Skills</h3> 
 <table>
      <tr>
