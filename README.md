@@ -6,7 +6,7 @@
 <h3>Pronouns</h3> she/her
 <h3>Passions</h3> 💞 family, 🙋🏻‍♀️ learning, and 🍲 food.... all the food.
 <h3>Hobbies</h3> 📚 reading, 🧘🏻‍♀️ yoga, 🥾 hiking, and 🧩 puzzles - lately, particularly <a href="https://www.libertypuzzles.com/">Liberty Puzzles!</a>
-<h3>Last Project</h3> <a href="httsp://www.meganmcb.com">Just Meg</a>
+<h3>Last Project</h3> <a href="https://www.meganmcb.com">Just Meg</a>
 <h3>Currently Working On</h3> Starting to learn Ruby 
 <h3>Skills</h3> 
 <table>
