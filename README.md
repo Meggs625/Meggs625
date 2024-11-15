@@ -1,5 +1,5 @@
 <div align="center"><h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
- I'm Meg. </h1>
+ I'm Megan! </h1>
 <img src="https://github.com/user-attachments/assets/64508898-49d3-4197-b764-a4dec980e75b" alt="McBride Logo" height="auto" width="80%"/> </div>
 
 <h2> A Little About Me </h2>
